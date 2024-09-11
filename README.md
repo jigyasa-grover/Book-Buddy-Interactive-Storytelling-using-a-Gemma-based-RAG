@@ -1,5 +1,9 @@
 # Book Buddy: Interactive Storytelling using a Gemma-based RAG 📖
 
+- _[Read the blog post.](https://jigyasa-grover.github.io/BookBuddyInteractiveStorytellingUsingAGemmaBasedRAG/)_
+- _[Check out the Colab Notebook.](https://github.com/jigyasa-grover/Book-Buddy-Interactive-Storytelling-using-a-Gemma-based-RAG/blob/main/Book_Buddy_Interactive_Storytelling_using_a_Gemma_based_RAG_%F0%9F%93%96.ipynb)_
+
+
 ![image](https://github.com/jigyasa-grover/Book-Buddy-Interactive-Storytelling-using-a-Gemma-based-RAG/assets/9291400/dfd26272-b5ac-42ad-8027-9f9dca3b87e5)
 
 In the realm of AI-driven interactive storytelling, the fusion of Retrieval Augmented Generation (RAG) and Google's Gemma language model opens new avenues for creating engaging narratives and educational experiences. RAG, often likened to an "open-book" approach for AI, empowers models like Gemma to access and synthesize vast amounts of information to answer specific queries or weave intricate tales.
@@ -19,6 +23,10 @@ Imagine a scenario where readers can interact with a virtual "Book Buddy," a cha
 
 
 # **Let's Build "Book Buddy" 🛠️**
+
+- _[Read the blog post.](https://jigyasa-grover.github.io/BookBuddyInteractiveStorytellingUsingAGemmaBasedRAG/)_
+- _[Check out the Colab Notebook.](https://github.com/jigyasa-grover/Book-Buddy-Interactive-Storytelling-using-a-Gemma-based-RAG/blob/main/Book_Buddy_Interactive_Storytelling_using_a_Gemma_based_RAG_%F0%9F%93%96.ipynb)_
+
 To delve deeper into the capabilities of Gemma-based RAG for interactive storytelling, let's embark on a hands-on journey that creates a dynamic system capable of answering questions about the classic text ["Alice's Adventures in Wonderland" by Lewis Carroll](https://www.gutenberg.org/files/11/11-0.txt), available from Project Gutenberg.
 
 By leveraging Gemma's capabilities, we can prototype interactive narratives that respond intelligently to user prompts, offering a personalized storytelling experience. Whether deployed in educational settings to elucidate historical events or within gaming environments to create dynamic quests, the versatility of Gemma-based RAG enriches the user experience through immersive, responsive storytelling.
